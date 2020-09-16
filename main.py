@@ -9,7 +9,7 @@ import pandas as pd
 
 
 dir_list = 'C:\\Users\\david.niblick\\OneDrive - West Point\\CY305\\AY211'
-dir_hw = 'C:\\Users\\david.niblick\\OneDrive - West Point\\CY305\\AY211\\HWs\\DB1\\all_files'
+dir_hw = 'C:\\Users\\david.niblick\\OneDrive - West Point\\CY305\\AY211\\HWs\\DB4\\all_files'
 fn_list = 'Niblick_cadet_list.csv'
 
 
