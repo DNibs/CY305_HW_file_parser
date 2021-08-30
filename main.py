@@ -8,8 +8,8 @@ import os
 import pandas as pd
 
 
-dir_list = 'C:\\Users\\david.niblick\\OneDrive - West Point\\CY305\\AY211'
-dir_hw = 'C:\\Users\\david.niblick\\OneDrive - West Point\\CY305\\AY211\\HWs\\DB4\\all_files'
+dir_list = 'C:\\Users\\david.niblick\\OneDrive - West Point\\EECS\\EE301'
+dir_hw = 'C:\\Users\\david.niblick\\OneDrive - West Point\\EECS\\EE301\\graded assignments\\hw1'
 fn_list = 'Niblick_cadet_list.csv'
 
 
